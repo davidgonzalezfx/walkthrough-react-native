@@ -1,11 +1,11 @@
 const lightColorSet = {
   mainThemeBackgroundColor: "#ffffff",
-  mainThemeForegroundColor: "#788eec",
+  mainThemeForegroundColor: "#121212",
 };
 
 const darkColorSet = {
-  mainThemeBackgroundColor: "#121212",
-  mainThemeForegroundColor: "#788eec",
+  mainThemeBackgroundColor: "#edeff5",
+  mainThemeForegroundColor: "#121212",
 };
 
 const colorSet = {

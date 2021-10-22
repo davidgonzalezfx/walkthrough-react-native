@@ -2,20 +2,20 @@ const WalkthroughAppConfig = {
   onboardingConfig: {
     walkthroughScreens: [
       {
-        icon: require("../assets/react-native.png"),
-        title: "React Native Walkthrough",
-        description: "Welcome your users with a beautiful app walkthrough.",
+        icon: require("../assets/learn.png"),
+        title: "Learn at your time",
+        description: "Don't change your learning, just change a way of learning",
       },
       {
-        icon: require("../assets/educate.png"),
-        title: "Educate",
+        icon: require("../assets/teachers.png"),
+        title: "Discover best classes",
         description:
-          "Showcase features to new users so that they get to love your app.",
+          "Educate yourself with top worlwide teachers",
       },
       {
-        icon: require("../assets/bell.png"),
-        title: "Get Notified",
-        description: "Describe the value proposition of each core feature.",
+        icon: require("../assets/goals.png"),
+        title: "A new way to achieve your goals",
+        description: "Improve your skills, get certified and land your dream job",
       },
     ],
   },

@@ -27,7 +27,7 @@ const WalkthroughScreen = (props) => {
       <Image
         style={styles.image}
         source={item.image}
-        size={100}
+        size={300}
         color="white"
       />
       <View>
@@ -43,9 +43,9 @@ const WalkthroughScreen = (props) => {
       slides={slides}
       renderItem={_renderItem}
       //Handler for the done On last slide
+      showDoneButton
+      showNextButton
       showSkipButton={false}
-      showDoneButton={false}
-      showNextButton={false}
     />
   );
 };

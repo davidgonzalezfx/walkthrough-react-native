@@ -17,16 +17,15 @@ const dynamicStyles = (appStyles, colorScheme) => {
       paddingRight: 10,
     },
     image: {
-      width: 100,
-      height: 100,
-      marginBottom: 60,
-      tintColor: 'white',
+      width: 400,
+      height: 400,
     },
     container: {
       flex: 1,
       justifyContent: 'center',
       alignItems: 'center',
       backgroundColor: appStyles.colorSet[colorScheme].mainThemeForegroundColor,
+      paddingHorizontal: 7,
     },
     button: {
       fontSize: 18,
