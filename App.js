@@ -13,7 +13,7 @@ export default function App() {
   });
 
   return (
-    <AppearanceProvider>
+    <AppearanceProvider> 
       <WalkthroughScreen
         appConfig={WalkthroughAppConfig}
         appStyles={DynamicAppStyles}
