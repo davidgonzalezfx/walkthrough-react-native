@@ -23,11 +23,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.walkthrough.davidgonzalezfx"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "React Native Walkthrough Demo. Download source code for free at https://www.instamobile.io . You can also check out the Swift version at https://www.iosapptemplates.com and the Flutter version at https://www.instaflutter.com ."
+    "description": "React Native Walkthrough Demo"
   }
 }
